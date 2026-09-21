@@ -219,4 +219,4 @@ Inky is offered as a full free version, providing all features and updates witho
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-20 23:41:57 UTC
+**Last updated:** 2026-09-21 01:46:37 UTC
